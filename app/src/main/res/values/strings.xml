@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">回声</string>
+    <string name="shortcut_record_label">记录心情</string>
+    <string name="shortcut_record_long_label">打开回声记录今天的心情</string>
+    <string name="shortcut_record_disabled">已禁用</string>
+</resources>

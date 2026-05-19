@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warm_beige">#FFF5E6</color>
+    <color name="cream">#FFF8F0</color>
+    <color name="soft_pink">#FFE4E1</color>
+    <color name="warm_brown">#8B7355</color>
+    <color name="text_primary">#3D352C</color>
+    <color name="text_secondary">#8B7355</color>
+</resources>
